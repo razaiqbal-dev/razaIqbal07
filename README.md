@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 You are viewing profile of a developer who either writes code or dreaming about climbing a mountain.
+
+  - 🔭 I’m currently working on nodeJS, flutter, laravel and reactJS.
+  - 🧐 I'm always looking for an idea to turn it into a product.
+  - 🌱 I’m trying to make every line of code I write to be better than my previous attempt
+  - 📫 You can reach me at mailrazaiqbal@gmail.com and I am happy to collaborate on something thats solving a problem in the community.
 
 <!--
 **razaIqbal07/razaIqbal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
