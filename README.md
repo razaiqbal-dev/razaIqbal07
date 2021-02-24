@@ -1,4 +1,4 @@
-### Hi there 👋 You are viewing profile of a developer who either writes code or dreaming about climbing a mountain.
+### Hi there 👋 You are viewing profile of a developer who is either writing code or dreaming about climbing a mountain.
 
   - 🔭 I’m currently working on nodeJS, flutter, laravel and reactJS.
   - 🧐 I'm always looking for an idea to turn it into a product.
