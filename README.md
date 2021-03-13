@@ -2,7 +2,7 @@
 
   - 🔭 I’m currently working on nodeJS, flutter, laravel and reactJS.
   - 🧐 I'm always looking for an idea to turn it into a product.
-  - 🌱 I’m trying to make every line of code I write to be better than my previous attempt
+  - 🌱 I’m trying to make every line of code I write to be better than my previous attempt.
   - 📫 You can reach me at mailrazaiqbal@gmail.com and I am happy to collaborate on something thats solving a problem in the community.
 
 <!--
