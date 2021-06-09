@@ -4,7 +4,7 @@
   - 💻 Languages I primarily use : Javascript, PHP, Dart. 
   - 🧐 Turning ideas into projects.
   - 🌱 Always trying to get better by the day.
-  - 📫 You can reach me at mailrazaiqbal@gmail.com and I am happy to collaborate on something thats solving a problem in the community.
+  - 📫 You can reach me at mailrazaiqbal@gmail.com.
 
 <!--
 **razaIqbal07/razaIqbal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
