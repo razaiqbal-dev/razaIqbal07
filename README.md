@@ -2,7 +2,6 @@
 
   - 🔭 I’m currently working on nodeJS, flutter, laravel and ReactJS.
   - 💻 Languages I primarily use : Javascript, PHP, Dart. 
-  - 🌱 Always trying to get better by the day.
   - 📫 You can reach me at mailrazaiqbal@gmail.com.
 
 <!--
